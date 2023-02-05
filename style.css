@@ -1,0 +1,95 @@
+body {
+	background-image: url("image/پس زمینه با لوگو و نوشته.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.main1 {
+	width: auto;
+	height: 300px;
+	text-align: center;
+	margin-right: 75px;
+	position: relative;
+}
+
+.dayere1 {
+	width: 270px;
+	height: 270px;
+	position: absolute;
+	text-align: center;
+	top: 980px;
+	right: -11px;
+	z-index: 1;
+}
+
+.dayere2 {
+	width: 270px;
+	height: 270px;
+	position: absolute;
+	top: 980px;
+	right: 267px;
+	z-index: 1;
+}
+
+.dayere3 {
+	width: 270px;
+	height: 270px;
+	position: absolute;
+	text-align: center;
+	top: 980px;
+	right: 550px;
+	z-index: 1;
+}
+
+.main2 {
+	width: auto;
+	height: 300px;
+	text-align: center;
+	margin-right: 75px;
+	position: relative;
+}
+
+.dayere4 {
+	width: 270px;
+	height: 270px;
+	position: absolute;
+	text-align: center;
+	top: 980px;
+	right: 30px;
+	z-index: 1;
+}
+
+.dayere5 {
+	width: 270px;
+	height: 270px;
+	position: absolute;
+	text-align: center;
+	top: 980px;
+	right: 268px;
+	z-index: 1;
+}
+.dayere6 {
+	width: 270px;
+	height: 270px;
+	position: absolute;
+	text-align: center;
+	top: 980px;
+	right: 509px;
+	z-index: 1;
+}
+
+.foter {
+	width: auto;
+	height: 1096px;
+	position: relative;
+	bottom: 0px;
+}
+
+.t-foter {
+	position: absolute;
+	width: 600px;
+	height: 550px;
+	bottom: 0px;
+	top: 792px;
+	left: 200px;
+}
